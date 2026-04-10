@@ -1,0 +1,7 @@
+* [Главная](README.md)
+* [Быстрый старт](docs/getting-started/README.md)
+* [Базовые редстоун-механики](docs/redstone-basics/README.md)
+* [Компоненты мода](docs/components/README.md)
+* [Туториал: автоферма](docs/tutorials/auto-farm/README.md)
+* [FAQ](docs/faq/README.md)
+* [Вариант 4 (демонстрация)](docs/variant-4/README.md)
